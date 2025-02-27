@@ -60,7 +60,7 @@ Les logs contiennent des informations sur les recherches de jobs, les feedbacks 
 - **Nombre total de recherches** : 2220
 - **Nombre d'erreurs de recherche** : 498
 - **Nombre de candidats uniques** : 275
-- **Nombre moyen d'offres par candidat** : 33.88
+- **Nombre moyen d'offres par candidat** : 67.68
 - **Répartition des feedbacks** :
   - Likes : 38
   - Dislikes : 48
